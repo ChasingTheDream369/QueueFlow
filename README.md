@@ -1,10 +1,6 @@
 ## QueueFlow
 
-Developed a restaurant-focused Wait Management System integrating Point-of-Sale (POS) reports with queue and inventory management to address operational inefficiencies in restaurant service.
-
-Key Features and Contributions
-
-Designed a restaurant wait management solution integrating POS reports with inventory management, sales reporting, advanced queue management, real-time notifications, category-based sorting, and data visualisation.
+Developed a restaurant-focused Wait Management System integrating Point-of-Sale (POS) reports with queue and inventory management to address operational inefficiencies in restaurant service. Also integrated sales reporting, advanced queue management, real-time notifications, category-based sorting, and data visualisation.
 
 Designed the database schema using Navicat and implemented database models and data access using SQLAlchemy and PyMySQL to support efficient data storage and retrieval.
 
