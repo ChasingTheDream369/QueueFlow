@@ -1,18 +1,18 @@
 ## QueueFlow
 
-## Summary
+Developed a restaurant-focused Wait Management System integrating Point-of-Sale (POS) reports with queue and inventory management to address operational inefficiencies in restaurant service.
 
-• Created the world’s first Wait Management System for Restaurants by integrating the Point of Sales Report and describing
-the problem in detail with suggesting our unique solution to it by implementing stock management, sales report, Advanced
-Queue management, Critical Data Visualization, real time-notification management and category sorting.
+Key Features and Contributions
 
-• Created the schema design using Navicat and then used SQLALchemy with PyMySQL to define the database schema of the
-backend to deal with the smooth and efficient storage and retrieval of data. Implemented the server using Flask REST API and
-used Flask session and CORS to further deal with the development issues and facilitating user interactions with the system.
+Designed a restaurant wait management solution integrating POS reports with inventory management, sales reporting, advanced queue management, real-time notifications, category-based sorting, and data visualisation.
 
-• Used Pycryptodome, Hashlib, Crytography to deal with the user login, user registration and logouts.
+Designed the database schema using Navicat and implemented database models and data access using SQLAlchemy and PyMySQL to support efficient data storage and retrieval.
 
-• Deployed the entire code on Heroku and received the 5th highest score in the course, being the best team in a single tutorial.
+Developed the backend using Flask REST APIs, with Flask sessions and Cross-Origin Resource Sharing (CORS) to support session management and frontend-backend communication.
+
+Implemented user registration, login, and logout functionality using PyCryptodome, hashlib, and the cryptography library.
+
+Deployed the application on Heroku.
 
 # Project Details
 
