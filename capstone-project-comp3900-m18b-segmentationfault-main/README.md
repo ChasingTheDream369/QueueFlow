@@ -1,7 +1,3 @@
-# capstone-project-comp3900-m18b-segmentationfault
-capstone-project-comp3900-m18b-segmentationfault created by GitHub Classroom
-
-
  > **Note:** To start **Front-end Server** and  **Back-end Server** on VM using development mode, you need to follow the **section 1** to build environments on VM machine 
 
  > **Note:** If you running our system using VM by development mode then following **section 1.1 or 1.2** is enough, **section 2** is using for running front-end in production / developments mode.
